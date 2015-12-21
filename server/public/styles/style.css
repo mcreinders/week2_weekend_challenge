@@ -1,0 +1,38 @@
+
+button {
+    height: 30px;
+    width: 60px;
+    background-color: #46b8da;
+}
+
+#peopleContainer {
+    width: 300px;
+    height: 150px;
+    overflow: hidden;
+    text-align: center;
+    margin: 0 auto;
+    background-color: #46b8da;
+    border: 1px solid black;
+}
+
+#index {
+    width: 700px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.indexnum {
+    height: 10px;
+    width: 10px;
+    margin: 5px;
+    display: inline;
+    border: 1px solid black;
+    border-radius: 15px;
+    text-align: center;
+    padding: 5px;
+    font-size: 8;
+}
+
+.selected {
+    background-color: #46b8da;
+}
